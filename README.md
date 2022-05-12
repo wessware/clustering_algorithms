@@ -23,3 +23,19 @@ The intend, if to find which of these models will best fit our data and give def
 
 The first model - performed averagely, but was unable to give an anticipated definitive outcome. Scored an
 inertia value of 4406 with a minimum of 7 clusters.
+
+### Affinity Propagation clustering
+
+Predicted two distinct cluster but imbalanced clusters both for the original dataset and the synthetically generated data. The synthetic data created a more distinct clustering.
+
+### Agglomerative Clustering
+
+Predicted two less distinct clusters for the original data. Predicted clusters were more distinct on the synthetic data.
+
+### BIRCH clusterinng
+
+Predicted two less distinct clusters for the original dataset. Predicted more distict clusters on the synthetic data.
+
+## Other Clusters
+
+Other clusters deployed in this project that did not perform well on creating or identifying proper clusters: OPTICS, K-means, mini-batch-k-means, mean-shift and spectral clustering.
