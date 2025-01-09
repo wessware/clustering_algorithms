@@ -39,3 +39,5 @@ Predicted two less distinct clusters for the original dataset. Predicted more di
 ## Other Clusters
 
 Other clusters deployed in this project that did not perform well on creating or identifying proper clusters: OPTICS, K-means, mini-batch-k-means, mean-shift and spectral clustering.
+
+https://github.com/wessware/Boosting_Algorithms
